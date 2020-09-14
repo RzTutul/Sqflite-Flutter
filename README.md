@@ -1,4 +1,4 @@
-# flutter_app_practice
+# flutter_SQFLITE_CRUD
 
 A new Flutter application.
 
